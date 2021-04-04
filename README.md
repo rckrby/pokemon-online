@@ -10,6 +10,8 @@ To do:
 - Program SwSh abilities and items (to do this, we have to modify PO internal files, and we will need A LOT of help).
 
 
+Note: I always used BW-style sprites for 6th and 7th gen -- personally, I am more comfortable using those images than the ones the program brings by default. That's the reason why I used fan-made sprites for SwSh, too. They were extracted from Smogon's X/Y Sprite Project, Sun/Moon Sprite Project and Sword/Shield Sprite Project, respectively.
+
 
 If you want to add this files for your PO client, go to PO folder/db and paste the files of this db folder.
 
