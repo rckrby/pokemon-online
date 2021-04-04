@@ -1082,9 +1082,9 @@
 798:0 Kartana
 799:0 Guzzlord
 800:0 Necrozma
-800:1:AD Necrozma-Dawn-Wings
-800:2:AD Necrozma-Dusk-Mane
-800:3:AD Necrozma-Ultra
+800:1:D Necrozma-Dusk-Mane
+800:2:D Necrozma-Dawn-Wings
+800:3:M Necrozma-Ultra
 801:0 Magearna
 801:1:AD Magearna-Pokeball
 802:0 Marshadow
@@ -1208,7 +1208,7 @@
 889:0 Zamazenta
 889:1:AD Zamazenta-Crowned
 890:0 Eternatus
-890:1:A Eternatus-Eternamax
+890:1:AD Eternatus-Eternamax
 891:0 Kubfu
 892:0 Urshifu
 892:1 Urshifu-Rapid-Strike
@@ -1220,5 +1220,5 @@
 896:0 Glastrier
 897:0 Spectrier
 898:0 Calyrex
-898:1 Calyrex-Ice
-898:2 Calyrex-Shadow
+898:1:D Calyrex-Ice
+898:2:D Calyrex-Shadow
